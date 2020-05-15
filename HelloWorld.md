@@ -1,7 +1,7 @@
 ---
 title: "HelloWorld.md"     
 auther: "Tsemakanya"  
-date: 5/15/2020 
+date: 2020-05-15
 output: HTML_documents   
 ---  
 
